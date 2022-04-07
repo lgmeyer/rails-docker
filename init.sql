@@ -1,0 +1,2 @@
+CREATE USER leandro;
+ALTER USER leandro WITH SUPERUSER;
